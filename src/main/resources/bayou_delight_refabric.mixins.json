@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "com.ginsway.bayoudelight.mixin.BayouDelightMixin"
   ],
   "injectors": {
     "defaultRequire": 1
